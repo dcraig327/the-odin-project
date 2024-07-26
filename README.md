@@ -1,9 +1,11 @@
 # the-odin-project
 Repository of personal notes and projects from [The Odin Project](https://theodinproject.com)
 
-- [1. Foundations](#1-foundations)
-  - [1.1. Introduction](#11-introduction)
-    - [1.1.1. How This Course Will Work](#111-how-this-course-will-work)
+- [the-odin-project](#the-odin-project)
+  - [1. Foundations](#1-foundations)
+    - [1.1. Introduction](#11-introduction)
+      - [1.1.1. How This Course Will Work](#111-how-this-course-will-work)
+      - [1.1.2. Introduction to Web Development](#112-introduction-to-web-development)
 
 ## 1. Foundations
 
@@ -24,3 +26,15 @@ The goal of The Odin Project is to provide a complete path for students to go fr
 > Who is "Odin"? :trident:
 
 Odin is a figure from Norse mythology, the allfather of the gods. He is portrayed as powerful and fickle (as they often are) but also wise and cunning. Learning web development is not an easy task and the tools laid out here are merely the path; you must walk it yourself. Should you possess a thirst for knowledge and persistence of spirit akin to that storied in Odin's mythos, you will find success on your journey.
+
+#### 1.1.2. Introduction to Web Development
+
+**Front end** is the stuff you see on the website in your browser, including the presentation of content and user interface elements like the navigation bar. Front-end developers use HTML, CSS, JavaScript, and their relevant frameworks to ensure that content is presented effectively and that users have an excellent experience.
+
+**Back end** refers to the guts of the application, which live on the server. The back end stores and serves program data to ensure that the front end has what it needs. This process can become very complicated when a website has millions of users. Back-end developers use programming languages like Java, Python, Ruby, and JavaScript to work with data.
+
+**Full-stack** developers are comfortable working with both the front and back ends. At The Odin Project, we focus on teaching you full-stack development, covering all aspects of web development.
+
+Opportunities vary from large tech companies to startups to freelancer to consultant to large older companies. Freelancer creates their own work where a consultant works for a web consultancy company that handles finding the work for you.
+
+As soon as possible I need to be working on personal projects!
